@@ -1,0 +1,47 @@
+/* Google fonts */
+@import url("https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Ubuntu+Mono&display=swap");
+/* font-family: 'Kaushan Script', cursive;
+font-family: 'Ubuntu Mono', monospace; */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 290px;
+}
+
+header,
+section {
+  overflow-x: hidden;
+}
+
+:root {
+  --font-Kaushan-Script: "Kaushan Script", cursive;
+  --font-Ubuntu-Mono: "Ubuntu Mono", monospace;
+  --header-font-color: #272264;
+}
+
+/* Header begins. */
+header .hd-logo {
+  display: block;
+  width: 6rem;
+  height: 5rem;
+  background: url("./assets/Logo-blue.png");
+  background-size: cover;
+  font-size: 0;
+}
+
+header .navbar .navbar-collapse .navbar-nav .nav-font {
+  color: #6d95bf;
+  font-weight: bold;
+}
+/* Header ends. */
+
+/* Skillsets begins. */
+.skill-sets {
+  height: 80vmin;
+  background: url("./assets/banner-background-geometric.jpg");
+  background-size: cover;
+}
+/* Skillsets ends. */
