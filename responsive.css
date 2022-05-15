@@ -1,0 +1,44 @@
+@media screen and (max-width: 1200px) {
+  /* Banner begins. */
+  .skills .pic {
+    width: 25vmin;
+    height: 15vmin;
+    bottom: 5%;
+    right: 3%;
+  }
+  .soft-skills .pic {
+    bottom: 9%;
+  }
+  /* Banner ends. */
+}
+
+@media screen and (max-width: 992px) {
+  /* Header begins. */
+  header .hd-logo {
+    width: 3rem;
+    height: 2.6rem;
+    position: relative;
+    top: 5px;
+  }
+  /* Header ends. */
+
+  /* Banner begins. */
+  .skills .pic {
+    display: none;
+  }
+  /* Banner ends. */
+}
+
+@media screen and (max-width: 768px) {
+  /* Banner begins. */
+  .skill-sets h2,
+  .skill-sets h1 span {
+    font-size: 1.6rem;
+  }
+  .skill-sets li {
+    margin-bottom: 0.5rem;
+    font-family: var(--font-Ubuntu-Mono);
+    font-size: 1.2rem;
+  }
+  /* Banner ends. */
+}

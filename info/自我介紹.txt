@@ -3,19 +3,17 @@ HTML, HTML5, CSS, CSS3, Saas, Less, Bootstrap, Element-UI
 
 JavaScript, jQuery, Object-Oriented Programming, ES6
 
-Webpack
-
 React, Redux, Hook
 
 Vue, Vue-cli, Vue-router, Vuex
 
 Ajax, HTTP Protocol, Axios
 
-Node, Npm, Express, PHP, Laravel, MySQL
+Node, Webpack, Npm, Express, PHP, Laravel, MySQL
 
 Git, GitHub
 
-WrodPress
+WrodPress, Shopify
 
 know Java, Photoshop
 
