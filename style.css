@@ -238,7 +238,8 @@ header .navbar .navbar-collapse .navbar-nav .nav-font {
 
 .contact-me .container {
   position: relative;
-  padding: 8vmin 0;
+  padding-top: 8vmin;
+  padding-bottom: 8vmin;
   z-index: 999;
   margin-top: 3.5rem;
 }
