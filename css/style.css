@@ -38,7 +38,7 @@ header .hd-logo {
   display: block;
   width: 6rem;
   height: 5rem;
-  background: url("./assets/Logo-black.png") no-repeat;
+  background: url("../assets/Logo-black.png") no-repeat;
   background-size: cover;
   font-size: 0;
 }
@@ -54,7 +54,7 @@ header .navbar .navbar-collapse .navbar-nav .nav-font {
 .skill-sets {
   position: relative;
   padding-bottom: 3rem !important;
-  background: url("./assets/background1.jpg");
+  background: url("../assets/background1.jpg");
   background-size: cover;
 }
 
@@ -131,7 +131,7 @@ header .navbar .navbar-collapse .navbar-nav .nav-font {
 }
 
 .tech-skills-pic {
-  background: url(./assets/banner-elec.jpg);
+  background: url(../assets/banner-elec.jpg);
 }
 
 .skills .pic:hover {
@@ -144,7 +144,7 @@ header .navbar .navbar-collapse .navbar-nav .nav-font {
 }
 
 .soft-skills-pic {
-  background: url(./assets/banner-team.jpg);
+  background: url(../assets/banner-team.jpg);
 }
 
 /* Skillsets ends. */
@@ -222,7 +222,7 @@ header .navbar .navbar-collapse .navbar-nav .nav-font {
 .contact-me {
   position: relative;
   height: 26vmin !important;
-  background: url("./assets/background.jpg");
+  background: url("../assets/background.jpg");
   background-size: cover;
   height: 10vmin;
 }

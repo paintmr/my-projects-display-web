@@ -1,0 +1,24 @@
+响应式网页（电脑，手机，平板通用）
+Rosa：https://rosa.intellibytesolutions.com/
+Books：https://books.intellibytesolutions.com/
+
+——————————————
+手机端专用网页
+苏宁易购：https://suning.intellibytesolutions.com/
+京东：https://jd.intellibytesolutions.com/
+携程：https://xiecheng.intellibytesolutions.com/
+
+——————————————
+电脑端专用网站
+品优购（一共7个页面）
+1 品优购主页：https://pyg.intellibytesolutions.com/
+2 品优购注册页：https://pyg.intellibytesolutions.com/register.html
+3 品优购登录页：https://pyg.intellibytesolutions.com/login.html
+4 品优购产品列表页：https://pyg.intellibytesolutions.com/list.html
+5 品优购产品详情页：https://pyg.intellibytesolutions.com/detail.html
+6 品优购购物车：https://pyg.intellibytesolutions.com/cart.html
+7 品优购订单结算：https://pyg.intellibytesolutions.com/order.html
+
+学成在线：https://xczx.intellibytesolutions.com/
+
+博学谷：https://bxg.intellibytesolutions.com/
